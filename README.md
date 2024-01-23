@@ -52,6 +52,8 @@ OP_CAT
   - [Development and Maintenance Challenges](#development-and-maintenance-challenges)
   - [Regulatory Concern](#regulatory-concern)
 
+- [Summary](#summary)
+
 ## Use Cases
 
 ### Data Serialization and Parsing

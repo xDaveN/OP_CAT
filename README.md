@@ -28,6 +28,30 @@ OP_CAT
 - `OP_PUSHDATA1` is an opcode to push data onto the stack.
 - `OP_CAT` concatenates the top two stack elements.
 
+## Table of Contents
+
+- [Use Cases](#use-cases)
+  - [Data Serialization and Parsing](#data-serialization-and-parsing)
+  - [Smart Contracts and Scripting](#smart-contracts-and-scripting)
+  - [Metadata Storage](#metadata-storage)
+  - [Improved Multisig Workflows](#improved-multisig-workflows)
+  - [Enhanced Privacy Techniques](#enhanced-privacy-techniques)
+  - [Cross-Chain Interoperability](#cross-chain-interoperability)
+  - [Token Protocols](#token-protocols)
+  - [Custom Data Structures](#custom-data-structures)
+  - [Oracle Integration](#oracle-integration)
+  - [Research and Experimentation](#research-and-experimentation)
+
+- [Potential Negatives](#potential-negatives)
+  - [Memory Usage Concerns](#memory-usage-concerns)
+  - [Transaction Size Impact](#transaction-size-impact)
+  - [Complexity in Script Execution](#complexity-in-script-execution)
+  - [Privacy Implications](#privacy-implications)
+  - [Script Standardization](#script-standardization)
+  - [Potential for Abuse](#potential-for-abuse)
+  - [Development and Maintenance Challenges](#development-and-maintenance-challenges)
+  - [Protocol Changes and Upgrades](#protocol-changes-and-upgrades)
+
 ## Use Cases
 
 ### Data Serialization and Parsing

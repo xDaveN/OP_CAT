@@ -50,6 +50,7 @@ OP_CAT
   - [Script Standardization](#script-standardization)
   - [Potential for Abuse](#potential-for-abuse)
   - [Development and Maintenance Challenges](#development-and-maintenance-challenges)
+  - [Regulatory Concern](#regulatory-concern)
 
 ## Use Cases
 
@@ -140,6 +141,10 @@ As with any powerful opcode, there is a potential for misuse or abuse. Concatena
 Developers working with OP_CAT may face challenges in terms of development and ongoing maintenance. The opcode introduces additional complexity to scripts, requiring careful consideration of edge cases and potential pitfalls. Continuous monitoring and adaptation may be necessary to address issues that arise during development and maintenance cycles.
 
 The dynamic nature of blockchain development demands ongoing attention to potential challenges introduced by OP_CAT. Developers must proactively address complexities, investing in robust testing and documentation practices. Ongoing maintenance efforts should prioritize responsiveness to emerging issues, fostering a development ecosystem that can adapt to the evolving demands of OP_CAT integration.
+
+### Regulatory Concern
+
+Since the SEC has officially declared Bitcoin as not a security, and BTC spot ETFs have been approved, the reintroduction of features like OP_CAT into the Bitcoin code may face considerations that focus on security, transparency, compliance, user protection, legal adherence, and market integrity. Developers would likely need to conduct a thorough risk assessment, ensuring that the implementation aligns with existing regulations and is transparently communicated to the community and regulatory bodies. Collaboration with industry stakeholders and ongoing engagement with regulatory bodies are crucial to address concerns and foster a cooperative regulatory environment. Demonstrating how OP_CAT enhances user protection, complies with relevant laws, and contributes positively to market integrity would be key in navigating regulatory considerations, keeping in mind the potential variations in regulatory approaches across different jurisdictions.
 
 ## Summary
 

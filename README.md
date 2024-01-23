@@ -50,7 +50,6 @@ OP_CAT
   - [Script Standardization](#script-standardization)
   - [Potential for Abuse](#potential-for-abuse)
   - [Development and Maintenance Challenges](#development-and-maintenance-challenges)
-  - [Protocol Changes and Upgrades](#protocol-changes-and-upgrades)
 
 ## Use Cases
 
@@ -141,7 +140,3 @@ As with any powerful opcode, there is a potential for misuse or abuse. Concatena
 Developers working with OP_CAT may face challenges in terms of development and ongoing maintenance. The opcode introduces additional complexity to scripts, requiring careful consideration of edge cases and potential pitfalls. Continuous monitoring and adaptation may be necessary to address issues that arise during development and maintenance cycles.
 
 The dynamic nature of blockchain development demands ongoing attention to potential challenges introduced by OP_CAT. Developers must proactively address complexities, investing in robust testing and documentation practices. Ongoing maintenance efforts should prioritize responsiveness to emerging issues, fostering a development ecosystem that can adapt to the evolving demands of OP_CAT integration.
-
-### Protocol Changes and Upgrades
-
-Staying informed about protocol changes is paramount for developers leveraging OP_CAT in their applications. A proactive approach to understanding protocol upgrades ensures that developers can adapt their scripts to remain compatible with the evolving Bitcoin ecosystem. Collaboration within the developer community and effective communication regarding protocol changes contribute to a smoother transition and continued innovation within the Bitcoin network.
